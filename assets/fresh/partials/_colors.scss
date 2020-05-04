@@ -2,13 +2,31 @@
 Color variables
 ========================================================================== */
 
+/* themes */
+/* gentle core */
+$gentle-core-1: #e8c7de;
+$gentle-core-2: #9fa0ff;
+$gentle-core-3: #9C95DC;
+$gentle-core-4: #C4E7D4;
+$gentle-core-5: #757073;
+/* gothyori */
+$gothyori-1: #097992;
+$gothyori-2: #0c0e17;
+$gothyori-3: #573D6E;
+$gothyori-4: #242424;
+$gothyori-5: #fdb793;
+/* xxx */
+$flickr-pink: #f72585;
+$champagne-pink: #FCE4D8;
+/* end themes */
+
 $white: #fff;
 $smoke-white: #fcfcfc;
 $grey-white: #f2f2f2;
 
-$primary: #4FC1EA;
-$secondary: $mainColour; //#ba00f3 // #F39200
-$accent: #00efb7;
+$primary: $gentle-core-2;
+$secondary: $flickr-pink; //#ba00f3 // #F39200
+$accent: $gentle-core-4;
 
 $fade-grey: #ededed;
 $light-grey: #EFF4F7;
@@ -28,3 +46,59 @@ $dark-grey: #344258;
 $border-grey: #ccc;
 $muted-grey: #999;
 $section-grey: #fbfbfb;
+
+/* Lavender Motif
+ * aba8bf
+ * 727080
+ * e3e0ff
+ * 393840
+ * cdcae6
+ */
+
+$lavender-grey: #aba8bf;
+$lavender-pale-grey: #E3E0FF;
+$lavender-cool-grey: #cdcae6;
+
+/* Gentle core
+ * #E8C7DE
+ * #9FA0FF
+ * #9C95DC
+ * #C4E7D4
+ * #757073
+ */
+
+ /* Yandere Androgyny
+  * #CD73D9
+  * #6C568C
+  * #05AFF2
+  * #F2E7C4
+  * #D9923B
+  */
+
+$yandere-andro-1: #CD73D9;
+$yandere-andro-2: #6C568C;
+$yandere-andro-3: #05aff2;
+$yandere-andro-4: #F2E7C4;
+$yandere-andro-5: #d9923b;
+
+/* Meme
+ * #966fd6
+ * #cda4de
+ * #e3d7ff
+ * #afa2ff
+ * #72788d
+ */
+
+$meme-1: #966fd6;
+$meme-2: #cda4de;
+$meme-3: #e3d7ff;
+$meme-4: #afa2ff;
+$meme-5: #72788d;
+
+/* Soft Violet Tones
+ * #C9DDFF
+ * #9B9ECE
+ * #C4B7CB
+ * #D4CBE5
+ * #E3E0FF
+ */
